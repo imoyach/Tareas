@@ -1,0 +1,13 @@
+Tarea Semana 3
+Me parece importante analizar el escenario planteado por Jorge: ¿Existe 
+alguna correlación entre la edad de un cliente y si la transacción se realizó en línea o en la tienda? 
+
+Lo que podemos ver primero es:
+1. Existe una brecha de 10 años (edades de 75 a 85) de personas que NO compran en linea. 
+2. Se hicieron 403 compras mas en la tienda física que en linea
+3. En promedio se hacen 40 compras por edad en la tienda física
+4. En promedio se hacen 41 compras por edad en linea
+
+En conclusion:
+
+Existe un promedio de edad de 10 años entre las personas que compran en linea y las que compran en la tienda física. Las personas de 46 años en promedio hacen más compras físicas que en linea, y las personas con un promedio de 36 años utilizan mas la opción en linea. 
